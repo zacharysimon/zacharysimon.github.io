@@ -69,40 +69,40 @@ body{
 }
 
 #obj-tv {
-  background-image: url('Images/2915378780_b6da9c0bde_o.jpg');
+  background-image: url('../Images/2915378780_b6da9c0bde_o.jpg');
 }
 #obj-computer {
-  background-image: url('Images/desk-laptop-notebook-table-2.jpg');
+  background-image: url('../Images/desk-laptop-notebook-table-2.jpg');
 }
 #obj-tools {
-  background-image: url('Images/construction-work-carpenter-tools.jpg');
+  background-image: url('../Images/construction-work-carpenter-tools.jpg');
 }
 #obj-gold {
-  background-image: url('Images/money-gold-coins-finance.jpg');
+  background-image: url('../Images/money-gold-coins-finance.jpg');
 }
 #obj-jewelry {
-  background-image: url('Images/arm-woman-hand-girl.jpg');
+  background-image: url('../Images/arm-woman-hand-girl.jpg');
 }
 #obj-games {
-  background-image: url('Images/controller-xbox-gaming.jpg')
+  background-image: url('../Images/controller-xbox-gaming.jpg')
 }
 #obj-seasonal {
-  background-image: url('Images/cold-snow-landscape-nature.jpg');
+  background-image: url('../Images/cold-snow-landscape-nature.jpg');
 }
 #obj-sports {
-  background-image: url('Images/field-sport-ball-america.jpg');
+  background-image: url('../Images/field-sport-ball-america.jpg');
 }
 #obj-cars {
-  background-image: url('Images/car-mustang.jpg');
+  background-image: url('../Images/car-mustang.jpg');
 }
 #obj-antiques {
-  background-image: url('Images/vintage-technology-keyboard-old.jpg');
+  background-image: url('../Images/vintage-technology-keyboard-old.jpg');
 }
 #obj-music {
-  background-image: url('Images/abstract-music-rock-bw.jpg');
+  background-image: url('../Images/abstract-music-rock-bw.jpg');
 }
 #obj-books {
-  background-image: url('Images/books-colorful.jpg');
+  background-image: url('../Images/books-colorful.jpg');
 }
 footer {
   background-color: #00724C;
