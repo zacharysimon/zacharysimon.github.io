@@ -1,0 +1,144 @@
+body{
+  margin: 8px;
+}
+#logo{
+  margin-top: -5%;
+}
+#valueprop{
+  margin: 0 4% 3% 4%;
+  text-align: center;
+  font-size: 30px;
+}
+
+#valueprop > p{
+  text-align: justify;
+}
+#how-it-works{
+  text-align: center;
+  font-size: 30px;
+  margin: 2% 0;
+}
+#locations{
+  text-align: center;
+  margin: 1% 0 2% 0;
+}
+#locations p{
+  font-size: 20px;
+}
+#locations h3{
+  font-family:"elena web basic";
+  font-weight: bold;
+}
+@media (max-width: 768px){
+  #copyright > p {
+    font-size: 10px;
+    }
+  }
+
+.pics > div {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  padding: 0;
+}
+.obj-overlay > p {
+  transform: translate(-50%,-50%);
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  width: 100%;
+}
+.pics > div > .obj-overlay {
+  background-color: rgba(51, 51, 51, 0.3);
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 768px){
+.pics > div > .obj-overlay {
+  display: none;
+}
+}
+
+.pics > div:hover > .obj-overlay {
+  display: block;
+}
+
+#obj-tv {
+  background-image: url('../images/2915378780_b6da9c0bde_o.jpg');
+}
+#obj-computer {
+  background-image: url('../images/desk-laptop-notebook-table-2.jpg');
+}
+#obj-tools {
+  background-image: url('../images/construction-work-carpenter-tools.jpg');
+}
+#obj-gold {
+  background-image: url('../images/money-gold-coins-finance.jpg');
+}
+#obj-jewelry {
+  background-image: url('../images/arm-woman-hand-girl.jpg');
+}
+#obj-games {
+  background-image: url('../images/controller-xbox-gaming.jpg')
+}
+#obj-seasonal {
+  background-image: url('../images/cold-snow-landscape-nature.jpg');
+}
+#obj-sports {
+  background-image: url('../images/field-sport-ball-america.jpg');
+}
+#obj-cars {
+  background-image: url('../images/car-mustang.jpg');
+}
+#obj-antiques {
+  background-image: url('../images/vintage-technology-keyboard-old.jpg');
+}
+#obj-music {
+  background-image: url('../images/abstract-music-rock-bw.jpg');
+}
+#obj-books {
+  background-image: url('../images/books-colorful.jpg');
+}
+footer {
+  background-color: #00724C;
+  padding: 1% 0;
+}
+footer h5{
+    color: #ecf0f1;
+    line-height: 25px;
+}
+#hours {
+  display: inline-block;
+}
+#contactinfo{
+  float: right;
+  display: inline-block;
+  padding: 1% 1% 0 0;
+}
+@media (max-width: 768px) {
+  #contactinfo > a > img{
+    height: 60px;
+    width: 60px;
+    }
+  #contactinfo{
+    padding: 3.5% 1% 0 0;
+  }
+}
+#copyright {
+  text-align: center;
+  margin: 0 0 0 0;
+}
+
+#copyright > p{
+  margin\: 0 0;
+}
+
+#copyright > p > a{
+  /*text-decoration: none;*/
+  color: inherit;
+}
